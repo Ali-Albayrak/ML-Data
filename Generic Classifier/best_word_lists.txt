@@ -1,0 +1,166 @@
+
+================>DATASET 1<================
+=================POS WORDS=================
+===========================================
+sister               xerox                amazing              laziest              kingdom              feature              accented             dollars              
+shut                 monkey               requiem              amber                jaunted              brendan              keen                 sent                 
+mehehe               later                hrs                  moreso               trail                continued            suggested            shower               
+classic              baffles              ebola                950                  obviously            sad                  assured              exploitation         
+hitchcock            wayact               specifics            beginning            reviews              tainted              hi                   levene               
+videos               quiet                personalitylouise     brooks               sacrifice            glued                dawson               guttural             
+kept                 wayact               stage                downhillthe          overthetop           fights               apparently           possession           
+insights             minutesthe           refreshing           20                   space                arrest               endthe               site                 
+r                    directed             preston              inhabits             land                 tamblyn              sequence             frye                 
+causes               havent               wartime              bowser               heroine              broke                lord                 evening              
+shouldnt             convent              kidnaps              pigs                 bat                  injuries             pivotal              direction            
+gets                 news                 cerebral             leave                negative             centuries            great                boss                 
+hooked               lithgows             decade               useful               
+===========================================
+=================NEG WORDS=================
+===========================================
+accepted             hated                posterity            hairraising          
+disneyland           follow               find                 maggot               talent               guesthosts           davies               1936                 
+mafia                finally              fo                   trade                ingenuity            bug                  eveningtwo           gem                  
+boring               pretty               ryans                hellish              alabama              primary              fiery                beauty               
+aint                 dmytryk              sold                 bad                  36th                 stupid               class                forgettable          
+responsible          audienceid           obligation           upuh                 anands               matured              camera               horrible             
+aspects              cromedalbino         took                 bond                 grey                 breed                affairfulcis         documentary          
+evilness             pvc                  worldfest            puts                 oneliners            hold                 disbelief            dangerfield          
+keitel               pigs                 deathmention         mincing              website              crimes               seriously            chippindalemaybe     
+slowed               sums                 cry                  appreciation         headsin              going                exists               trailer              
+daredevil            version              einstein             continuing           continuous           sparring             girolamo             laziest              
+boundaries           forward              universal            mukhsin              limbalsamatore       unclear              mission              tipoff               
+revealed             worries              smalltime            degenerates          nekromantik          past                 garner               seminaked            
+
+================>DATASET 2<================
+=================POS WORDS=================
+===========================================
+godfather            lauren               lampoon              associate            tribute              wealthy              rain                 solvers              
+safety               missions             filmsfun             displays             job                  sin                  russians             persuasive           
+fools                ned                  uncut                cars                 screwing             chuckle              mrs                  crucial              
+scouseraustralian     tomorrow             greavesgnter         bombs                ravages              animation            causing              eddie                
+california           makes                leftleaning          college              sidewalk             dance                guardian             interesting          
+presumably           story                event                pacing               kumar                dramatic             filmmaker            wakes                
+ricky                slower               harvey               damn                 corny                scope                outthis              hilarious            
+pang                 pulse                equipmentdespite     miserably            seven                mothers              toooverall           concordes            
+rene                 conan                line                 bravely              kong                 radioevangelist      props                demon                
+vohrer               flattering           fairly               propagandist         supposedly           believes             pleasegirls          salt                 
+expand               baron                walked               roles                face                 gay                  lady                 shower               
+physical             great                apply                tension              fans                 fulci                vixen                storydriven          
+torments             80s                  thinlydisguised      paranoid             
+===========================================
+=================NEG WORDS=================
+===========================================
+rex                  depiction            unearthed            edward               
+wouldbe              breach               itll                 audience             subplot              allow                jewish               tvshow               
+sadists              high                 heard                conclusion           frustration          guignol              danes                suit                 
+bad                  enthusiasm           breckin              peer                 eddy                 july                 likes                disregarded          
+faultless            confront             walter               transcend            meet                 french               terrible             flashes              
+modestly             1969things           tapes                apparently           masterpiecewait      britishgaumont       exciting             hot                  
+asking               2hrs                 wielding             bottin               behave               hate                 soderberghs          fatally              
+boring               budgeted             hand                 flit                 sum                  landing              interpretation       despair              
+airwaves             unfunny              elliott              blue                 chips                strained             agree                recommend            
+lindy                woodworking          endings              superior             commentary           kibbutz              obviously            sht                  
+beaty                bother               swimmer              patriotism           ophuls               wretched             hustons              rains                
+twice                elicited             gripping             whatnot              pink                 land                 tops                 daring               
+realized             slopped              mills                lucky                cattle               green                bits                 goodthis             
+
+================>DATASET 3<================
+=================POS WORDS=================
+===========================================
+gertrude             hugerabbitsharkinvisibleman     crap                 hoot                 arent                population           course               yearsold             
+suggests             mustsee              entity               fail                 difficult            superb               carandiru            cheaper              
+voice                yearsold             costume              vessel               depardieu            subzero              70s                  manners              
+floor                ronald               shown                allen                warrior              featurelength        tenney               brother              
+agree                horehounds           material             influence            john                 likable              turnofthecentury     lethal               
+football             concludes            realm                bleak                lambert              skerritt             tenney               worth                
+safety               coming               buttheadthe          respectable          twoday               stealth              marlowe              multitude            
+pieces               twists               minimum              unwatched            charlies             football             stockler             barrels              
+principally          enrichedthe          wishes               roddenberry          festivals            released             landfill             manipulator          
+anne                 vodka                nephew               yeoman               newspaper            spent                english              nude                 
+internet             pleasantly           comics               fruitful             south                brow                 standup              unfolds              
+hits                 content              marshall             twoday               officer              foggy                liked                performance          
+wonderful            means                pursued              residents            
+===========================================
+=================NEG WORDS=================
+===========================================
+sexploitative        okayand              gay                  festival             
+handles              spoken               looks                explosive            spent                protagonist          philosophy           inside               
+gritty               hugely               remaining            drug                 vengeance            lonnrot              confined             bogged               
+fraction             entertainment        vengeance            sensationalistic     characterisations     shrink               blowing              computerassistant     
+reasons              fong                 item                 bad                  overly               assistance           whileheath           blockbuster          
+love                 basically            recruited            science              characters           selfdefeating        speak                eyres                
+benefit              lanethey             distorting           came                 againso              depardieu            wrath                main                 
+lennon               scenerythe           touched              inside               calls                exception            hilton               contrivance          
+consistent           bores                eagle                unprepared           artfilm              teenoriented         lyric                treat                
+ps                   arthur               filming              misery               arts                 like                 forget               enabled              
+hall                 barrelmy             dragging             nyu                  pretending           covered              tanner               offjudge             
+explained            prostitute           explained            porn                 roar                 blockbuster          sept                 senior               
+blooming             brackish             prevent              maternal             impervious           highlander           cater                reynolds             
+
+================>DATASET 4<================
+=================POS WORDS=================
+===========================================
+dreaded              awesome              monica               talented             help                 sexy                 killed               cargo                
+nob                  proved               reach                intact               industry             censor               villains             nice                 
+snot                 queensbury           mcarthur             restraining          undresses            trapped              junkie               sanctimonious        
+cloud                gameagain            subintelligent       immediately          delightfully         stereotypes          famously             send                 
+phenom               battle               easy                 thanks               picture              national             claude               quitting             
+thankfully           behaviors            killer               abedded              lover                jia                  viewpoints           begin                
+clue                 outa                 stateoftheart        tunes                encounters           unqualified          authors              discriminationthat     
+production           countless            project              bigname              charm                universe             arise                reno                 
+lowe                 yakking              selfhatred           continues            themselvesthis       earn                 luxury               ultimately           
+pointedly            humiliating          lift                 trick                success              walks                masses               roots                
+cameron              heartbreak           thousands            spectacular          budgetcharacters     animated             family               words                
+commutes             shriverhe            scan                 great                continually          alist                hangover             doctors              
+heroic               hairstyles           heroic               connection           
+===========================================
+=================NEG WORDS=================
+===========================================
+showing              screaming            aha                  buy                  
+military             obvious              funniest             subsequent           realand              freshmanits          hearts               severe               
+glorious             sincerely            encounters           ripper               enraging             cuba                 record               carl                 
+donner               okayruby             psychoscapeshaw      havent               listed               frightening          auteur               810                  
+wasted               ball                 proceeds             dylan                eat                  marara               touch                outside              
+welldone             unleashed            desecration          changed              dumbingdown          fire                 rhymes               sister               
+hissy                america              owl                  adam                 flocking             50                   nowadays             uhm                  
+catch22              macarthur            recap                dmytryk              passionate           try                  attitude             uncles               
+agent                multiplayer          attenborough         message              warn                 kevin                hot                  ripley               
+confused             horrific             time                 neil                 spaghetti            greatly              looks                40                   
+gets                 cuties               hecht                conversational       relevance            current              keanu                exposition           
+served               centres              itunlike             saucy                adviser              freedom              risk                 mr                   
+oh                   marry                wow                  approach             household            assert               school               crappy               
+
+================>DATASET 5<================
+=================POS WORDS=================
+===========================================
+pathology            delivered            ofeverything         reasons              nicks                sub                  reveal               dates                
+dvd                  handful              wedding              shots                person               accustomed           era                  firth                
+releasing            sadness              author               fancy                hbo                  island               incestuous           mention              
+rich                 rrating              strengthened         zero                 mess                 sing                 pearl                afoot                
+grit                 trilogy              entire               alice                aroundfrank          levine               reservations         harrowingly          
+spoiler              cartoon              score                spans                axe                  ruggles              stitched             disney               
+14                   toothbrush           brosnam              susan                basic                routine              naughtons            permission           
+number               thoroughly           sequence             given                dynamism             altman               peeing               imaginationshudders     
+engaged              dictionary           lowbudget            setup                brosnam              boy                  got                  sparkly              
+awakes               hourdouglas          producer             conroy               cutesy               visually             nosofunny            thisamerican         
+constructed          mouthed              taste                sadness              participle           hollywoodjoe         protagonist          pulp                 
+abundance            wandering            workdont             wouldve              dalton               stops                real                 fashionpoor          
+thinks               sufficiently         dangle               amounts              
+===========================================
+=================NEG WORDS=================
+===========================================
+misha                refusedthe           tend                 amusing              
+melting              dinosaur             worries              winners              mole                 bullys               decided              resurrecting         
+camilla              followed             broth                tasty                ian                  collar               postman              automobile           
+normally             usual                sheeple              fire                 daughter             connections          bus                  smoke                
+inside               include              laughter             television           rotten               structure            felson               explain              
+offers               left                 despondent           produced             large                cheap                pimp                 reels                
+haphazard            hold                 boston               carries              pose                 cassie               decent               rich                 
+rapist               substandard          triangle             spago                cole                 kennedy              denver               superiority          
+manhattanites        hidden               asylum               ceremonial           frustrated           safegood             huh                  trial                
+expect               foley                patrioticwhy         excuse               gears                digger               sadly                doses                
+tempted              whenrobert           whinneys             forced               ignored              modern               caused               peak                 
+builds               knew                 perfecto             downtime             graphics             divorce              abba                 heroin               
+opinion              dislikes             probably             dooh                 exceptional          body                 improvisedand        simplified           
+
